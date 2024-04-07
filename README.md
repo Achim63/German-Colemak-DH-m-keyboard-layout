@@ -9,3 +9,7 @@ Here's the layout with the Option key held down:
 ![Alt-Colemak](https://github.com/Achim63/German-Colemak-DH-m-keyboard-layout/assets/10847639/e283ee2c-6b77-4e66-8b2e-317b88c4c7df)
 
 Note that Alt+l (@), Alt+e (€), Alt+u (¨), Alt+n (~) etc. also moved to the new Colemak positions.
+
+The Windows version was created using keyboard-layouts/mac2winKeyboard.py. It shows up with a strange name (containing "Mac"), but seems to work as expected.
+
+
