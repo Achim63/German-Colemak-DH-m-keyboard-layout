@@ -1,5 +1,5 @@
 ## German Colemak DH keyboard layout for MacOS and Windows
-This layout attempts to keep all special keys in place as far ar possible, so that only the core Colemak layout has to be learned.
+This layout attempts to keep all special keys in place as far as possible, so that only the core Colemak layout has to be learned.
 "ö" and "ä" had to move one place to the right.
 
 ![Colemak](https://github.com/Achim63/German-Colemak-DH-m-keyboard-layout/assets/10847639/4ad4a408-2708-456e-b4c5-8a8a282c57ac)
